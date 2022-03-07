@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Flutter and Dart**
 
-- 💬 Ask me about **PHP, Laravel, DevOps**
+- 💬 Ask me about **anything (no guarantee of an answer)**
 
 
 <h3 align="left">Languages and Tools:</h3>
