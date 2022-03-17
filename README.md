@@ -2,7 +2,6 @@
 <h1 align="center">Hi 👋, I'm Derek</h1>
 <h3 align="center">A full-stack developer from Norwich</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=brew-derek" alt="brew-derek" /></a> </p>
 
 - 🌱 I’m currently learning **Flutter and Dart**
 
